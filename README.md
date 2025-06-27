@@ -16,7 +16,7 @@ Bem-vindo à Pokédex Online! Este projeto foi desenvolvido para proporcionar a 
 
 ## 🖼️ Visual do Projeto
 
-![image1](image1)
+![image1](./imagens/pokedex.png)
 
 ---
 
